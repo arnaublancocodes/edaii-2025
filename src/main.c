@@ -8,7 +8,7 @@ void createaleak() {
   char *foo = malloc(20 * sizeof(char));
   printf("Allocated leaking string: %s", foo);
 }
-
+sdfsdfsdfsdfds
 int main() {
   printf("*****************\nWelcome to EDA 2!\n*****************\n");
 
